@@ -99,3 +99,28 @@ h1{
     margin-top: -110px;
     cursor: pointer;
 }
+
+.qbackround{
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    background-color: #7821F1;
+    margin-top: 50px;
+    margin-left: 760px;
+    box-shadow: 10px 10px #313338;
+}
+
+.geoop1{
+    display: flex;
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #7821F1;
+    border-color: transparent;
+    margin-top: 50px;
+    margin-left: 765px;
+    box-shadow: 5px 5px #313338;
+}
